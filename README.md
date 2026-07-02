@@ -11,7 +11,7 @@ I hold a Diploma as a Backend Engineering Best Learner at [AltSchool Africa](htt
 - 😊 Interested in open source, backend engineering, and building impactful products.
 - 💼 Open to software engineering and backend opportunities.
 - 💡 Fun fact: Outside coding, I enjoy football, audiobooks, learning, and sharing knowledge.
-- 📫 Reach me: ughiovhejohn@gmail.com.## Hi there 👋
+- 📫 Reach me: ughiovhejohn@gmail.com.
 
 <!--
 **dev-jayjaw/dev-jayjaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
