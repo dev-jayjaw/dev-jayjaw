@@ -7,7 +7,7 @@
 **Quick summary about me**:
 
 Hi, I’m John Ughiovhe, a backend-focused Software Engineer building scalable APIs and reliable systems that solve real-world problems.
-I hold a Diploma as a Backend Engineering Best Learner at [AltSchool Africa](https://altschoolafrica.com) I'm also studying Backend Engineering at [TechCrush](https://techcrush.pro/) Cohort 7. 
+I'm currently studying Backend Engineering at [TechCrush](https://techcrush.pro/) Cohort 7. 
 - 😊 Interested in open source, backend engineering, and building impactful products.
 - 💼 Open to software engineering and backend opportunities.
 - 💡 Fun fact: Outside coding, I enjoy football, audiobooks, learning, and sharing knowledge.
